@@ -1,0 +1,13 @@
+name: poker
+version: 0.1.0
+
+authors:
+  - Maxfield Lewin <mslewin@gmail.com>
+
+targets:
+  poker:
+    main: src/poker.cr
+
+crystal: 0.24.2
+
+license: MIT
